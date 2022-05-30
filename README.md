@@ -9,6 +9,6 @@ This Portfolio was designed usin HTML, CSS3, SASS, and JS.
 
 # Deploy Version
 
-charinwolf-portfolio.netlify.app
+[charinwolf-portfolio.netlify.app](https://charinwolf-portfolio.netlify.app/)
 
 
