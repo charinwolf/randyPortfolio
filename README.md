@@ -1,4 +1,4 @@
-# Randy Portfolio 
+<h1 align='center'> Portfolio </h1>
 
 ![WhatsApp Image 2022-05-30 at 2 56 20 PM](https://user-images.githubusercontent.com/76216411/171042561-531da656-2c9c-4c5d-8612-6734218d8de3.jpeg)
 
@@ -12,7 +12,9 @@ Aca voy actualizando todos los proyectos que realizo de manera consecuente y los
 
 El diseño del mismo fue realizado utilizando:
 
-HTML, CSS3, SASS, and JS.
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+<code><img width="4.4%" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
 
 # Deploy Version
 
